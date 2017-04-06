@@ -2,7 +2,7 @@
 
 This project is to deal with the problem that how to get the optimal wavelength assignments and route paths in hypersqure torus networks. Though we haven't conceived a general algorithm to completely solve this problem, we find the way to derive the optimal solutions in n-dimension torus network whose radix is even. 
 
-# Files Description
+# Directory Description
 ## radix_2
 python files in radix_2 are for algorithms to get the optimal wavelength assignments n-dimension torus network whose radix is 2, i.e., hypercube. The reaseon we distinguish hypercube and other n-dimension torus network is that the number of direct links in hypercube is special.  
 
